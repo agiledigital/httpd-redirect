@@ -4,4 +4,4 @@
 set -e
 
 /tmp/template-config.sh
-/usr/bin/run-httpd -f /opt/app-root/httpd.conf
+/usr/bin/run-httpd -f /tmp/httpd.conf
